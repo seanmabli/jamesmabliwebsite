@@ -124,8 +124,19 @@ root.render(
         </a>
       </p>
       <br />
-      <p></p>
-
+      <p>
+        "Determinants of Food Insecurity Among Congregate Meal Participants: A
+        Cross-Sectional Study Using Participant Information Matched to
+        Geographic and Service Provider Data" (with Marisa Shenk) (
+        <span className="italic">Journal of Aging: Research and Lifestyle</span>
+        , September 2020){" "}
+        <a
+          className="bold"
+          href="https://www.jarlife.net/4276-determinants-of-food-insecurity-among-congregate-meal-participants-a-cross-sectional-study-using-participant-information-matched-to-geographic-and-service-provider-data.html"
+        >
+          [pdf]
+        </a>
+      </p>
       <br />
       <h2 id="profiles">Profiles</h2>
       <br />
