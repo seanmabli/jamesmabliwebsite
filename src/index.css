@@ -25,7 +25,6 @@ br {
 .site {
   max-width: 1200px;
   padding: 10px;
-  justify-self: center;
 }
 
 .navbar {
